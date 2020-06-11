@@ -1,5 +1,5 @@
 FROM php:7.3-fpm-alpine
-LABEL maintainer "your-name"
+LABEL maintainer "Haruki"
 
 ARG TZ
 ENV COMPOSER_ALLOW_SUPERUSER 1
